@@ -28,22 +28,29 @@
   
 </details>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurrivas&label=Profile%20views&color=0e75b6&style=flat" alt="arthurrivas" /> </p>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@62a07111-f507-44fe-bada-a49193f14f1b/b1521e66-8107-4c71-88a7-6f2e53cc3e93.svg"></embed></figure>
-
-<p align="left">
 <a href="https://www.linkedin.com/in/arthur-rivas-2021" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="https://twitter.com/Arthurrivas07" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/twitter.png" title = "Twitter" alt="" height="30" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurrivas&label=Profile%20views&color=0e75b6&style=flat" alt="arthurrivas" /> </p>
+
+
+<figure><embed src="https://wakatime.com/share/@62a07111-f507-44fe-bada-a49193f14f1b/b1521e66-8107-4c71-88a7-6f2e53cc3e93.svg"></embed></figure>
+<h2 align="center">My Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,ts,js,python,spring,angular,postgres,mysql,mongodb,vue,html,css,sass,bootstrap,nodejs,git,github,linux,vscode,eclipse&perline=10" />
+  </a>
+</p>
+
+
 <!-- <a href="https://www.instagram.com/shahriyarmitul/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/instagram.png" alt="" height="30" /></a> -->
 <!-- <a href= "https://www.youtube.com/c/MitulShahriyar" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/YouTube.png" alt="" height="30" /></a> -->
 <!-- <a href="https://dev.to/mitul3737" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/Devto.png" alt="" height="30" /></a> -->
 <!-- <a href="https://www.facebook.com/shahriyaralmustakim.mitul/" target="blank"><img align="center" src="https://github.com/mitul3737/mitul3737/blob/main/socials/facebook.png" alt="" height="30" /></a>
 </p> -->
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -62,7 +69,7 @@
     </a> 
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>     
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+</p> -->
     
 <!---
 [![wakatime](https://wakatime.com/badge/user/ca84bede-543b-4532-89d1-8595e92a204f.svg)](https://wakatime.com/@ca84bede-543b-4532-89d1-8595e92a204f)
