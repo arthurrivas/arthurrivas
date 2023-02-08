@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Arthur Rivas</h1>
+<h1 align="center">Hi, I'm Arthur Rivas</h1>
+<!-- <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> -->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -9,7 +10,7 @@
 
 - 🔭 I’m currently working on [knn-brasil](https://github.com/knn-brasil)
 - 🌱 I’m currently learning Angular, AWS, Kotlin
-- 👯 I’m looking to collaborate on Java Open Source projects
+- :robot: I’m looking to collaborate on Java Open Source projects
 - 💬 Ask me about Java, Springboot, Python, TypeScript , music, movies and series.
 - 📫 How to reach me: arthurrivas1@gmail.com
 <!--- 
