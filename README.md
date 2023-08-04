@@ -26,7 +26,7 @@
   <p align="center">
 <!--     <a href="https://github.com/arthurrivas/arthurrivas"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrivas&theme=highcontrast"/></a> -->
     <a href="https://github.com/arthurrivas/arthurrivas"><img alt="Arthur Rivas language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrivas&layout=compact&langs_count=8&theme=dracula" width=40%/></a>
-    <a href="https://github.com/arthurrivas/arthurrivas"><img alt="Arthur Rivas GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arthurrivas&count_private=true&show_icons=true&theme=nightowl" width=55%/></a>
+    <a href="https://github.com/arthurrivas/arthurrivas"><img alt="Arthur Rivas GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurrivas&count_private=true&show_icons=true&theme=nightowl" width=55%/></a>
 <!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=arthurrivas&show_icons=true&theme=dark"
