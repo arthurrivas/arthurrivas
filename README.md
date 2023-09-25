@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome!;Nice+To+Meet+You+...;Don't+Panic;Open-Source+Defender&center=true"></a>
 </p>
 
-- 🔭 I’m currently working on [knn-brasil](https://github.com/knn-brasil)
+- 🔭 I’m currently working on [Esig software e consultoria](https://esig.group)
 - 🌱 I’m currently learning Angular, AWS, Kotlin
 - :robot: I’m looking to collaborate on Java Open Source projects
 - 💬 Ask me about Java, Springboot, Python, TypeScript , music, movies and series.
